@@ -18,7 +18,7 @@
 
 ---
 
-## Hesap Makinesi
+## Database oluşturma düşüncesi
 
 ### Tablo Şeması :)
 <img src="https://github.com/user-attachments/assets/391042db-7d2f-44e0-964d-adcade2652bc" width="400"/>
